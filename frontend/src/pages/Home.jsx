@@ -1,8 +1,7 @@
-// src/pages/Home.jsx
-import Navbar from "../components/Navbar";
-import HeroCard from "../components/HeroCard";
-import TestimonialCard from "../components/TestimonialCard";
-import TrendingSection from "../components/TrendingSection";
+import Navbar from "../components/Navbar.jsx";
+import HeroCard from "../components/HeroCard.jsx";
+import TestimonialCard from "../components/TestimonialCard.jsx";
+import TrendingSection from "../components/TrendingSection.jsx";
 import { Play } from "lucide-react";
 
 const Home = () => {
